@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/priyampnchl#0790)
 
 ### Message/Email me about:
-- Mobile Robots: vision based SLAM
+- Robotics: ROS, SLAM, Adaptive Control
 - Embedded Software
 - 3D printing
 
