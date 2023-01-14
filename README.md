@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/priyampnchl#0790)
 
 ### Stats:
-[![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyampnchl)](https://github.com/anuraghazra/github-readme-stats)
+[![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyampnchl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
