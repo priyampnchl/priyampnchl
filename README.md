@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me:
+
+🔭 I’m currently working on Embedded Software and Robotics Development
+🌱 I’m currently learning Adaptive Control Systems
 
 <!--
 **priyampnchl/priyampnchl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
