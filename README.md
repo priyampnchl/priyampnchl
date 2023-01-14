@@ -14,7 +14,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/priyampnchl#0790)
 
 ### Tech Stack:
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[![s](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+[![s](https://github-readme-stats.vercel.app/api/top-langs/?username=priyampnchl&theme=blue-green)
 
 ### Stats:
 [![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyampnchl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
