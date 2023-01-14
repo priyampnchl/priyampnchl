@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on Embedded Software and Robotics Development
 - 🌱 I’m currently learning Adaptive Control Systems
 
+### Socials: 
+![alt text](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"Logo Title Text 1")
+
 <!--
 **priyampnchl/priyampnchl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
