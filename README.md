@@ -14,15 +14,15 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/priyampnchl#0790)
 
 ### Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![ardu](https://img.shields.io/badge/Arduino_IDE-00979D?style=plastic&logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic)
+![ardu](https://img.shields.io/badge/Arduino_IDE-00979D?style=plasti)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic)
 
 ### Stats:
 [![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyampnchl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
