@@ -26,10 +26,12 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat)
 
-[![](https://visitcount.itsvg.in/api?id=priyampnchl&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### Stats:
-[![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyampnchl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=priyampnchl&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<!--[![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyampnchl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
