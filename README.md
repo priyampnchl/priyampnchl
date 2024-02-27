@@ -15,6 +15,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat)
 ![ardu](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat)
 ![matlab](https://img.shields.io/badge/-Matlab-orange)
