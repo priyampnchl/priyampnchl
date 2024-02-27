@@ -15,14 +15,14 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat)
 ![ardu](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat)
 ![matlab](https://img.shields.io/badge/-Matlab-orange)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat)
