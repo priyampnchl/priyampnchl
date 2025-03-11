@@ -1,7 +1,7 @@
 ### About me:
 
-- 🔭 I’m currently working on Embedded Software and Robotics Development
-- 🌱 I’m currently learning Adaptive Control Systems
+- 🔭 Robotics Software and Controls Development for a 8-axis Captive Trajectory System in a Trisonic Wind Tunnel 
+- 🌱 Embedded Software Development for ARM for a 6-axis force-torque sensor
 
 ### Message/Email me about:
 - Robotics: ROS, SLAM, Adaptive Control
